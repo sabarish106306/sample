@@ -17,6 +17,8 @@ function App() {
                <Context></Context>
                <Didupdate></Didupdate>
                </kumar.Provider>
+	       <h1>hello</h1>
+	       <h2>helloworld</h2>
         </praveen.Provider>
 
 
